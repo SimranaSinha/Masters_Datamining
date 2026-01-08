@@ -116,7 +116,7 @@ This work demonstrates how machine learning can:
 
 It has potential use in:
 
-🏥 clinical settings
-📱 health monitoring tools
-📊 policy and population health analytics
+- 🏥 clinical settings
+- 📱 health monitoring tools
+- 📊 policy and population health analytics
 
